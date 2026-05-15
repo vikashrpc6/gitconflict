@@ -1,0 +1,2 @@
+# gitconflict
+git conflict sample
